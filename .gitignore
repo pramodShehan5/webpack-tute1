@@ -1,0 +1,10 @@
+target
+node_modules
+project/target
+projecT/project/target
+.DS_Store
+.idea
+.idea_modules
+atlassian-ide-plugin.xml
+*.swp
+*.swo

@@ -1,0 +1,1 @@
+export var demoButton = document.querySelector('#demo'); 
